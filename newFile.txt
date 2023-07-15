@@ -1,0 +1,3 @@
+testing save中文
+1.python存檔
+2.某些字要用utf8編碼
